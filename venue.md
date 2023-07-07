@@ -2,73 +2,70 @@
 
 > 订场看板
 
-***
+---
 
-# 如何申请俱乐部？
+# 设置场区、场地
 
-## 开始 <!-- {docsify-ignore} -->
+<br><br><br><br><br>
 
-该标题不会出现在侧边栏的目录中。
+# 价格体系
 
-第1步：“我的”，“申请俱乐部”图标入口，点击进入申请俱乐部界面；
+默认方案：可以理解为散客的价价， 可以快捷设置时间段的价格。如设早中晚，三个时间段的不同的价。
 
-![](https://photo.lhyd.com/c27fcfb3-bc9b-440e-aff2-1f42c36ab0711688628681085.jpeg "")
+当有会员等级时，金卡，银卡,对应各时间段设方案，然后方案再对应快捷设价；
 
-第2步：回到“我的”，“申请进度”页，查看俱乐部申请进度；若还未审核，可在“我的”→“其他服务”→“联系客服”，联系平台客服，提醒审核俱乐部；
+价格取值为，会员列表上设置的特殊价》方案上的快捷设价》等级的优惠折扣百分比 》场区的基础价
+<br><br><br><br><br>
 
-![](https://photo.lhyd.com/01c4dc35-1e96-464d-acea-109bdc42cebd1688628692890.jpeg "")
+# 如何设置会员价格
 
-# 发布活动
-## 一：入口
+> 系统的价格跟着方案走，等级关联着方案，方案对应价格。
 
-入口1：在首页头部，便捷发布。
+第一步，添加方案。
 
-![](https://tcs.teambition.net/storage/312v0c371471889a057109b6dc8edf992a5a?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTY4OTIzOTY3MSwiaWF0IjoxNjg4NjM0ODcxLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzMxMnYwYzM3MTQ3MTg4OWEwNTcxMDliNmRjOGVkZjk5MmE1YSJ9.-bn-gti-h2hz08EMsU5GiOVipBM7DL_f76gFEoht2LA&download=image.png "")
+![](images\venue\p1.png)
 
+![](images\venue\p2.png)
 
-入口2：在管理后台，“活动管理”→“发布”入口进入活动发布页
+第二步，添加等级优惠设置
 
-![](https://tcs.teambition.net/storage/312v5edfffc8c5f3c04fb5c41e7e4bd4717e?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTY4OTIzOTY3MSwiaWF0IjoxNjg4NjM0ODcxLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzMxMnY1ZWRmZmZjOGM1ZjNjMDRmYjVjNDFlN2U0YmQ0NzE3ZSJ9.QI43-J7L3W254ktkrgC5Plkinh0cqmrAfcw-BKdQ-BQ&download=image.png "")
+![](images\venue\p3.png)
 
+![](images\venue\p4.png)
 
+第三步
 
-## 二：发布
+![](images\venue\p5.png)
 
-第1步：“发布活动”页，依次选择或填入各项信息，点击发布即可；
-第2步：活动发布成功，点“分享”可分享活动链接发给微信好友或微信群，点“查看详情”进入活动详情页；
+![](images\venue\p6.png)
 
-表单解释
+![](images\venue\p7.png)
 
-1. 收费项目：是附加收费项目，取消退款时间与取消报名时间。
-1. 转让截止时间<取消时间<=开始时间<结束时间。
-1. “活动频率”，选择“单次”时活动结束不会发布新的活动，选择“每周举办”时，上一活动结，会自动发布新的活动，时间上会加7天。
-1. 勾选了“固定活动成员是否自动报名”，必须设置固定活动成员才可成功发布活动，固定活动成员会自动报名当前活动（余额不足报名失败）。
-1. 设置了“会员优惠”，且报名人员有俱乐部会员等级时，报名费才会享受对应的优惠。
-1. 请先设置俱乐部会员水平等级后，再开启限制会员水平等级报名，此项设置将会限制水平之外的会员和新人报名。
-1. 报名者必填联系方式：因为微信注册默认不再强制用手机号授权注册，如果不熟的活动。建议开启此项，让报名成员先授权手机号，或手填上联系电话的方式。
-1. 会员等级优惠，是每个等级报名的对应价格方案。
-1. 会员卡优惠，是使用卡的优惠。与会员等级优惠是两个支付方案。不关联的两个方案。
+![](images\venue\p8.png)
 
+这样价格就设置好了
 
+---
 
-## 三：活动查看报名
+第四步设置会员等级
 
-活动状态：枚举为：招募中、进行中、已结束。
+![](images\venue\p9.png)
 
-1. 到进行中后，不可再报名。
-1. 结束后，方可发起多退少补。可以发起多次。
+![](images\venue\p10.png)
 
+设置完会员等级，即可看到优惠。
 
+![](images\venue\p11.png)
+<br><br><br><br><br>
 
-活动所属的俱乐部管理员和会长可在两个地方查看报名列表：
+# 单个会员的特殊价设置
 
-活动详情页→报名列表、活动详情页→管理→报名名单，查看活动帐单（这里可以看到全部，包括已取消的报名记录）
+在会员管理的操作列表上，选择设置会员的折扣，此折扣价为最优先的价格。
 
-![](https://tcs.teambition.net/storage/312v12b262a728c0641d9a2358ed3f4ca592?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTY4OTIzOTY3MSwiaWF0IjoxNjg4NjM0ODcxLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzMxMnYxMmIyNjJhNzI4YzA2NDFkOWEyMzU4ZWQzZjRjYTU5MiJ9.OIEkTM9KZQFTgaIqreRI4LgG3dk7nPn39FMZdIZvjJw&download=image.png "")
-
-![](https://tcs.teambition.net/storage/312va45f391adcfc927859bb3f8022ec6ebd?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTY4OTIzOTY3MSwiaWF0IjoxNjg4NjM0ODcxLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzMxMnZhNDVmMzkxYWRjZmM5Mjc4NTliYjNmODAyMmVjNmViZCJ9.zo7QrVkzd6g2YUtEC5i4JtSJ8_UUXlPjVXIKt8ebZeE&download=image.png "")
-
-普通用户仅能在活动详情页→报名列表查看报名名单。这里查看到的是当前活动所有的报名信息。
-
-![](https://tcs.teambition.net/storage/312v83242add50a3d65fc2f285ae90b436e9?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTY4OTIzOTY3MSwiaWF0IjoxNjg4NjM0ODcxLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzMxMnY4MzI0MmFkZDUwYTNkNjVmYzJmMjg1YWU5MGI0MzZlOSJ9.fK5gpqA9jVKA6523Uq04-KzTvI5j4Bs5ZQvzAbhDGvw&download=image.png "")
+![](images\venue\p12.png)
+增加1个价格设置
+![](images\venue\p13.png)
+在如上周所示，周日此会员的价格为0.01元半个小时。
+![](images\venue\p14.png)
+<br><br><br><br><br>
 
