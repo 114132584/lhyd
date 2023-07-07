@@ -70,3 +70,46 @@
 
 ![](https://tcs.teambition.net/storage/312v83242add50a3d65fc2f285ae90b436e9?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTY4OTIzOTY3MSwiaWF0IjoxNjg4NjM0ODcxLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzMxMnY4MzI0MmFkZDUwYTNkNjVmYzJmMjg1YWU5MGI0MzZlOSJ9.fK5gpqA9jVKA6523Uq04-KzTvI5j4Bs5ZQvzAbhDGvw&download=image.png "")
 
+# 用户报名活动
+
+
+报名分为正常报名和候补报名。
+
+![](https://tcs.teambition.net/storage/312v587543ecbebab2e51647e4bba7ab264c?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTY4OTI5ODg3NSwiaWF0IjoxNjg4Njk0MDc1LCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzMxMnY1ODc1NDNlY2JlYmFiMmU1MTY0N2U0YmJhN2FiMjY0YyJ9.aPUp6QtJ9X6luPRYXijcr6wLCuclsEZFqw20Z_PnkqU&download=image.png "")
+
+###  正常报名：
+
+活动详情页，点击“报名活动”→“报名”页填好微信号和手机号→填写男多少名、女多少名，走完支付流程即可。
+
+注意：活动限制男女人数时，分别对男女报名人数有限制。不限制男女人数时，只限制男女报名的总数。
+
+
+
+### 候补报名：
+
+活动发布者若未开候补，报名名额已满后，无法继续报名；反之，用户可以候补报名，待已报名用户取消报名空出名额后，候补报名者自动报名。
+
+
+
+
+
+# 取消报名
+
+会员
+
+![](https://tcs.teambition.net/storage/312ve4de511800e1a00eca082faa1ea6f626?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTY4OTI5ODg3NSwiaWF0IjoxNjg4Njk0MDc1LCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzMxMnZlNGRlNTExODAwZTFhMDBlY2EwODJmYWExZWE2ZjYyNiJ9.QWcGDWJrGeQWafp62Ea_uvTGl1bkXFk9CqfDHVoI_xI&download=image.png "")
+
+![](https://tcs.teambition.net/storage/312va6bd7a6182be6557e8680a9ce641af69?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTY4OTI5ODg3NSwiaWF0IjoxNjg4Njk0MDc1LCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzMxMnZhNmJkN2E2MTgyYmU2NTU3ZTg2ODBhOWNlNjQxYWY2OSJ9.JfsPd9FxD8zEkw9JBAsajiwk5vt9RbexsyD3x4JvtVE&download=image.png "")
+
+
+
+## 转让名额
+
+条件：活动名额已满且未过转让时间
+
+仅支持转让自己的报名，转让后，接受者接受转让，且在付款前，转让者可以取消转让；若接受者付款了，表示转让完成，报名名额转到了接受者这边。
+
+
+
+
+
