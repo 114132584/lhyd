@@ -111,5 +111,74 @@
 
 
 
+# 怎么发起“多退少补”
 
+
+***
+
+注意：仅支持活动发起者本人发起多退少补，且活动发起者本人无法参与多退少补的少补
+
+
+
+第1步：活动发布者，选择自己发布过且已到期的活动，点击进入活动详情页，“管理”        →“发起多退少补”；
+
+![](https://tcs.teambition.net/storage/312va798f8f2d5374c2abeef9e2eac6a908f?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTY4OTMwMDE5MCwiaWF0IjoxNjg4Njk1MzkwLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzMxMnZhNzk4ZjhmMmQ1Mzc0YzJhYmVlZjllMmVhYzZhOTA4ZiJ9.KZNrUEhO5b3RCLx8LIg3gEH-UhF9Ivc78-Oishi_Rf0&download=image.png "")
+
+第2步：选好多退少补模式、各金额，选择“收”或“退”，初步设定各报名人员的金额；
+
+第3步：根据各报名人员的报名费，计算出需要“退”或“补”的金额，选好“退”或者“补”，填好计算出的金额；
+
+第4步：填写多退少补的备注说明，点击“发起多退少补收款”；
+
+第5步：确认“退”和“补”金额，确定；
+
+第6步：输入微信支付密码，支付多退的金额；同时，生成“多退少补的支付链接”，可以发给需要少补的报名人员或者活动微信群，提醒需要少补的人员补交报名费；
+
+
+
+可以多次发布多退少补，如果会员线下转过款了。也可以取消已生成的订单。
+
+
+
+# “充值”与“提现”是怎样的
+
+
+
+
+“充值”目前分普通会员充值、俱乐部余额充值。其中普通会员充值由“我的”页→“余额”→“充值”，充到普通会员自己的平台个人余额里；俱乐部余额充值由“我的”页→“我的俱乐部”→平台余额向右箭头→“充值”，充到俱乐部的余额里。俱乐部会员余额是不会过期。
+
+“提现”是对可提现余额的提现，提现到当前会员用户的微信余额里。目前每人每天仅支持最多10次提现，每人每天提现总额最多5000元。
+
+
+# “报名账单”怎么查看？
+
+
+前提：当前用户为活动所属俱乐部的会长或者管理员。
+
+
+
+“俱乐部”页→选择并点击活动所属俱乐部→“活动”→选择该活动→“管理”→
+
+“查看活动账单”，即可查看当前活动报名的账单明细。
+
+![](https://tcs.teambition.net/storage/312vd6b2036b0bd9f6568653d25061156470?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTY4OTMwMDIxMSwiaWF0IjoxNjg4Njk1NDExLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzMxMnZkNmIyMDM2YjBiZDlmNjU2ODY1M2QyNTA2MTE1NjQ3MCJ9.VrXKmL97ydO6VZHyhqNda54hubgYM6idnarCOHWuKJo&download=image.png "")
+
+
+
+其中，会员余额支付总额：指的是使用俱乐部会员余额支付来报名产生的账单；
+
+其他支付总额：指的是使用个人平台余额支付或者微信余额支付来报名产生的账单；
+
+# 俱乐部如何管理俱乐部下的成员？
+由“我的”→“管理后台”→选定俱乐部→“俱乐部成员”，可以做以下操作：
+
+![](https://tcs.teambition.net/storage/312v65c54c864cf1a268a7560447ea09e3be?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTY4OTMwMDIxNywiaWF0IjoxNjg4Njk1NDE3LCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzMxMnY2NWM1NGM4NjRjZjFhMjY4YTc1NjA0NDdlYTA5ZTNiZSJ9.K4XY21TqG4ewIYMBuMEzV-gNj5GnqDa5UEGJHKVXCtA&download=image.png "")
+
+“设置管理员”：将俱乐部下成员设为管理员，成员成为管理员后，可设置会员等级、将非会长成员移出俱乐部、拉黑非会长成员、设置会员等级和撤销拉黑会员；
+
+“设置等级”：将选定成员设置会员等级，活动报名时享会员优惠；
+
+“移出俱乐部”：将非会长成员移出俱乐部；
+
+“拉黑”：将非会长成员拉黑，不再享受俱乐部成员福利和优惠。拉黑后，出现在黑名单页； 
 
