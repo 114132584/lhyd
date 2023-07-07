@@ -1,6 +1,6 @@
-# 运动星球
+# 联合场馆
 
-> 组织俱乐部球会，各种活动约起
+> 订场看板
 
 ***
 
@@ -8,7 +8,7 @@
 
 ## 开始 <!-- {docsify-ignore} -->
 
-
+该标题不会出现在侧边栏的目录中。
 
 第1步：“我的”，“申请俱乐部”图标入口，点击进入申请俱乐部界面；
 
@@ -20,14 +20,15 @@
 
 # 发布活动
 ## 一：入口
+
 入口1：在首页头部，便捷发布。
 
-![](images/1.png "")
+![](https://tcs.teambition.net/storage/312v0c371471889a057109b6dc8edf992a5a?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTY4OTIzOTY3MSwiaWF0IjoxNjg4NjM0ODcxLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzMxMnYwYzM3MTQ3MTg4OWEwNTcxMDliNmRjOGVkZjk5MmE1YSJ9.-bn-gti-h2hz08EMsU5GiOVipBM7DL_f76gFEoht2LA&download=image.png "")
 
 
 入口2：在管理后台，“活动管理”→“发布”入口进入活动发布页
 
-![](images/2.png "")
+![](https://tcs.teambition.net/storage/312v5edfffc8c5f3c04fb5c41e7e4bd4717e?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTY4OTIzOTY3MSwiaWF0IjoxNjg4NjM0ODcxLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzMxMnY1ZWRmZmZjOGM1ZjNjMDRmYjVjNDFlN2U0YmQ0NzE3ZSJ9.QI43-J7L3W254ktkrgC5Plkinh0cqmrAfcw-BKdQ-BQ&download=image.png "")
 
 
 
@@ -50,12 +51,13 @@
 
 
 
-# 活动查看报名
+## 三：活动查看报名
 
-活动状态分别为：招募中、进行中、已结束。
+活动状态：枚举为：招募中、进行中、已结束。
 
 1. 到进行中后，不可再报名。
 1. 结束后，方可发起多退少补。可以发起多次。
+
 
 
 活动所属的俱乐部管理员和会长可在两个地方查看报名列表：
